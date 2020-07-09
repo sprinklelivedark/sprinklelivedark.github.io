@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>sprinkle.live-dark</title>
+<title>sprinkle.live.dark</title>
 
 <style>
 @import url("https://fonts.googleapis.com/css?family=Inconsolata:700");
